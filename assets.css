@@ -1,0 +1,35 @@
+.titulo{
+    text-align: center;
+    border: 15px black;
+    margin: 5px;
+    padding: 5px;
+}
+.DatosPersonales{
+    color: rgb(241, 241, 241);
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.514);
+}
+.ContenidoIndividuo{
+    display: grid;
+    grid-template-areas: "InformacionPedida InformacionRespuesta";
+}
+.InformacionPedida{
+    border-radius: 10px;
+    border: 15px crimson;
+}
+.perfilProfesional{
+    color: rgb(241, 241, 241);
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.514);
+}
+.Exp{
+    color: rgb(241, 241, 241);
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.514);
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
